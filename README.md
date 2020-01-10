@@ -1,5 +1,12 @@
 # TryCatch
-HiTech Tools and Tackle Tracker
+Hi-Tech Tools and Tackle Tracker
+
+This will be my attempt at a rull react wep app. The goal is to have a web-based app, but also include offline/native app functionality to allow usage when there is no cell coverage on the water. The app will track all information about your fishing hobby. 
+- Favorite spots
+- Fishing buddies
+- Trip planning 
+- Equipment and vessel information, (photos & serials incase of theft or loss)
+- 
 
 Feature Road Map
 ---------
@@ -25,9 +32,12 @@ Feature Road Map
    
 5. My Trips
    A. Plan a trip (invite folks, RSVP, email/text updates?)
-   B. Past Trips w/Locations (linked from weather reports)
+   B. Past Trips w/Locations (linked from weather reports), catches, photos, etc.
 
 6. Catches/Memories
    A. Catch/Boat Photos
-   B. Use info from trip to tag photos
+   B. Use info from trip to tag photos, buddies
    C. Choose equipment/lures to associate with location
+   
+7. Fishing Stream
+   A. Timelime of publicly available fishing photos and catches, like instagram
