@@ -6,7 +6,8 @@ This will be my attempt at a rull react wep app. The goal is to have a web-based
 - Fishing buddies
 - Trip planning 
 - Equipment and vessel information, (photos & serials incase of theft or loss)
-- 
+- Trip history and photos of catches/trips
+- Public Timeline of users' publicly-shared photos
 
 Feature Road Map
 ---------
